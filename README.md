@@ -32,6 +32,4 @@ Built using Tkinter.
 * Improve UI design
 * Add copy-to-clipboard feature
 
-
-
-Jahnvi Srivastava
+---
