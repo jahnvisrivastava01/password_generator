@@ -33,3 +33,7 @@ Built using Tkinter.
 * Add copy-to-clipboard feature
 
 ---
+
+##  Author
+Jahnvi Srivastava
+
