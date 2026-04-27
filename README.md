@@ -34,6 +34,6 @@ Built using Tkinter.
 
 ---
 
-##  Author
+## 👩‍💻 Author
 Jahnvi Srivastava
 
