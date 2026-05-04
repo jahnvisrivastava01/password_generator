@@ -11,7 +11,7 @@ Built using Tkinter.
 
 ---
 
-## ✨ Features
+## ✨️ Features
 
 * Password strength checker (Weak / Medium / Strong)
 * Random secure password generator
